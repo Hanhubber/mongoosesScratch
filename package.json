@@ -1,0 +1,29 @@
+{
+  "name": "mongoosesscratch",
+  "version": "1.0.0",
+  "description": "Scrapes web contents of your choice from a webpage",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Hanhubber/mongoosesScratch.git"
+  },
+  "keywords": [
+    "index"
+  ],
+  "author": "hanson",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Hanhubber/mongoosesScratch/issues"
+  },
+  "homepage": "https://github.com/Hanhubber/mongoosesScratch#readme",
+  "dependencies": {
+    "express": "^4.16.3",
+    "express-handlebars": "^3.0.0",
+    "mongoose": "^5.0.11",
+    "package": "^1.0.1",
+    "request": "^2.85.0"
+  }
+}
